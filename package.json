@@ -1,0 +1,18 @@
+{
+  "name": "sabre",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:extropiescom/Sabre.git",
+  "author": "EOS Cybex",
+  "license": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bignumber.js": "^7.2.1",
+    "eosjs": "^16.0.8",
+    "ffi": "^2.2.0",
+    "ref": "^1.3.5",
+    "ref-array": "^1.2.0",
+    "sprintf-js": "^1.1.1"
+  }
+}
+
